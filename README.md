@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋🏼 Ciao, I'm Raizelian from Italy.
+- 👋🏼 Ciao, I'm Nes from Italy.
 - 👀 I'm interested in reading and e-learning.
 - 🔧 I really love fixing things.
 - 🌱 I’m currently learning Javascript and Swift.
