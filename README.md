@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao! 
 
 <!--
 **Raizelian/raizelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋🏼 Ciao, I'm Raizelian from Italy.
+- 👀 I'm interested in reading and e-learning.
+- 🔧 I really love fixing things.
+- 🌱 I’m currently learning Javascript and Swift.
+- ☝🏼 Random fact: I could eat 🍕 and 🍣 all day!
