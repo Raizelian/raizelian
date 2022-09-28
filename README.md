@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋🏼 Ciao, I'm Nes from Italy.
-- 👀 I'm interested in reading and e-learning.
+- 👋🏼 
+- 👀 My latest, coolest project is a smart fan.
 - 🔧 I really love fixing things.
 - 🌱 I’m currently learning Javascript and Swift.
 - ☝🏼 Random fact: I could eat 🍕 and 🍣 all day!
