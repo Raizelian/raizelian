@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋🏼 
-- 👀 My latest, coolest project is a smart fan.
+- 👀 My latest completed project is a smart fan.
 - 🔧 I really love fixing things.
-- 🌱 I’m currently learning Javascript and Swift.
+- 🌱 I’m currently learning how to program SPI Flash memory.
 - ☝🏼 Random fact: I could eat 🍕 and 🍣 all day!
