@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋🏼 
-- 👀 My latest completed project is a smart fan.
+- 👀 My latest completed project is a smart fan making use of an ESP32 board.
 - 🔧 I really love fixing things.
-- 🌱 I’m currently learning how to program SPI Flash memory.
+- 🌱 I’m currently learning Powershell scripting and how to program SPI Flash memory.
+- 🔭 Future learning includes Rust.
 - ☝🏼 Random fact: I could eat 🍕 and 🍣 all day!
+
